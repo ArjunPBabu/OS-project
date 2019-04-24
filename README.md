@@ -156,7 +156,7 @@ int main()
 	if(checker == 0)
 	{
 		sort_comp(Q,n);
-		printf("\n\n\t!!! The Processes have Completed their Execution !!!\n\n");
+		printf("\n\n\t!!! The Processes have Completed its Execution !!!\n\n");
 	}	
 	printf("\n\t==============================================================================\n");
 	printf("\t Process \t Completion Time \t Turn Around Time \t Waiting Time");
